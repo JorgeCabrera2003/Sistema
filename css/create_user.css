@@ -1,0 +1,9 @@
+#num{
+	background: transparent;
+	border: none;
+	margin: 1px;
+}
+
+#number label{
+	height: 1vw;
+}
